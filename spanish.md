@@ -29,8 +29,9 @@
 | 10/24 | Vie |  |  |  |
 | 10/25 | Sáb |  |  |  |
 | 10/26 | Dom | Planificación de la clase de jovenes y adolecentes | 9:00 | Aurora |
-| 10/27 | Lun | Reunión de Cuerpo Vital | 19:30 - 21:30 | Aurora |
+| 10/27 | Lun | Reunión de Cuerpo Vital | 19:30 -  | Aurora |
 | 10/28 | Mar |  |  |  |
 | 10/29 | Mié |  |  |  |
 | 10/30 | Jue |  |  |  |
 | 10/31 | Vie |  |  |  |
+
